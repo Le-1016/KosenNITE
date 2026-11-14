@@ -1,8 +1,8 @@
-# KosenNIGHT 改善版
+# KosenNITE 改善版
 
 ## 起動
 
-KosenNIGHTフォルダー全体をPC内へコピーし、直下の `KOSENFIGHT_Distribution.exe` を開きます。EXEだけを移さず、Engineフォルダーとゲームデータを同じ配置で保ってください。UEエディターは不要です。
+KosenNITEフォルダー全体をPC内へコピーし、直下の `KOSENFIGHT_Distribution.exe` を開きます。EXEだけを移さず、Engineフォルダーとゲームデータを同じ配置で保ってください。UEエディターは不要です。
 
 左右キーでスキンを選び、Enterで確定。難易度画面では1=EASY、2=NORMAL、3=HARDで新規開始、Enterで保存済みの続きから再開します。スキンは服を着た7種類です。
 
